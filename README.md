@@ -85,6 +85,10 @@ Contributions are welcome! If you would like to contribute to this project, plea
     ```
 6. **Open a pull request**: Describe your changes and submit the pull request for review.
 
+
+### Sample Screenshot
+![Sample Screenshot](calorie-sample.gif)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
